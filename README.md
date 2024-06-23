@@ -3,15 +3,15 @@
 - [Maintained by Saltssaumure](https://github.com/MiniDiscordThemes/modern-indicators) -- please report Replugged issues to them!
 
 ### ![betterdiscord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
-- [Direct Download](https://github.com/discord-extensions/modern-indicators/releases/latest/download/modern-indicators.theme.css)
-- [Compiled Source](https://discord-extensions.github.io/modern-indicators/src/source.css)
+- [Direct Download](https://github.com/idntknwlouis/modern-indicators/releases/latest/download/modern-indicators.theme.css)
+- [Compiled Source](https://idntknwlouis.github.io/modern-indicators/src/source.css)
 
 ### ![vencord](https://discord-extensions.github.io/assets/icons/vencord.gif) **[Vencord](https://github.com/Vendicated/Vencord)**
 1. Go to user settings (CTRL + ,)
 2. Go to the "Vencord" category and select the "Themes" tab.
 3. In the input field under "THEMES" paste the following URL.
 ```
-https://discord-extensions.github.io/modern-indicators/src/source.css
+https://idntknwlouis.github.io/modern-indicators/src/source.css
 ```
 
 ### ![stylus](https://discord-extensions.github.io/assets/icons/stylus.png) **Stylus**
