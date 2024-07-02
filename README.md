@@ -1,27 +1,8 @@
 ### ![replugged](https://discord-extensions.github.io/assets/icons/replugged.png) **[Replugged](https://replugged.dev)**
-- [Direct Install](https://replugged.dev/install?identifier=dev.LuckFire.ModernIndicators)
-- [Maintained by Saltssaumure](https://github.com/MiniDiscordThemes/modern-indicators) -- please report Replugged issues to them!
+- no port atm.
 
-### ![betterdiscord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
+### ![betterdiscord & vencord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
 - [Direct Download](https://github.com/idntknwlouis/modern-indicators/releases/latest/download/modern-indicators.theme.css)
-- [Compiled Source](https://idntknwlouis.github.io/modern-indicators/src/source.css)
-
-### ![vencord](https://discord-extensions.github.io/assets/icons/vencord.gif) **[Vencord](https://github.com/Vendicated/Vencord)**
-1. Go to user settings (CTRL + ,)
-2. Go to the "Vencord" category and select the "Themes" tab.
-3. In the input field under "THEMES" paste the following URL.
-```
-https://idntknwlouis.github.io/modern-indicators/src/source.css
-```
-
-### ![stylus](https://discord-extensions.github.io/assets/icons/stylus.png) **Stylus**
-> **Warning**
-> Firefox users must have "Patch CSP to allow style assets" enabled for the theme to work. This can be found in Stylus' settings under "Advanced"
-1. Install the broswer extensions for your repsective browser.
-    - [Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
-    - [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
-2. Once installed, open [this link](https://github.com/discord-extensions/modern-indicators/raw/main/clients/modern-indicators.user.css) in a new browser tab. This opens the page where you will install this userstyle.
-3. Press the `Install Style` button.
 ---
 ### Customization
 You can add the variables below into your Quick CSS and modify the basic colors. Please use HSL values.
