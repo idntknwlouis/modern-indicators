@@ -1,7 +1,7 @@
 ### ![replugged](https://discord-extensions.github.io/assets/icons/replugged.png) **[Replugged](https://replugged.dev)**
 - no port atm.
 
-### ![betterdiscord & vencord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
+### ![betterdiscord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)** & ![vencord](https://discord-extensions.github.io/assets/icons/vencord.gif) **[Vencord](https://github.com/Vendicated/Vencord)**
 - [Direct Download](https://github.com/idntknwlouis/modern-indicators/releases/latest/download/modern-indicators.theme.css)
 ---
 ### Customization
