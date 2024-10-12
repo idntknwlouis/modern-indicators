@@ -26,23 +26,29 @@ https://idntknwlouis.github.io/modern-indicators/src/source.css
 You can add the variables below into your Quick CSS and modify the basic colors. Please use HSL values.
 ```css
 :root {
-    --indicator-border-size: 2px;
-    --indicator-border-style: solid;
-    --indicator-rounding: 0;
+  /* Important Channel */
+  --indicator-border-size: 2px;
+  --indicator-border-style: solid;
+  --indicator-rounding: 0;
+
+  /* Less Important Channel */
+  --less-indicator-border-size: 2px;
+  --less-indicator-border-style: solid;
+  --less-indicator-rounding: 0;
 }
 
 .theme-light {
-    --indicator-unread: var(--primary-900-hsl);
-    --indicator-unread-mention: var(--red-430-hsl);
-    --indicator-selected: var(--brand-500-hsl);
-    --indicator-connected: var(--green-430-hsl);
+  --indicator-unread: var(--primary-900-hsl);
+  --indicator-unread-mention: var(--red-430-hsl);
+  --indicator-selected: var(--brand-500-hsl);
+  --indicator-connected: var(--green-430-hsl);
 }
 
 .theme-dark {
-    --indicator-unread: var(--primary-130-hsl);
-    --indicator-unread-mention: var(--red-400-hsl);
-    --indicator-selected: var(--brand-500-hsl);
-    --indicator-connected: var(--green-230-hsl);
+  --indicator-unread: var(--primary-130-hsl);
+  --indicator-unread-mention: var(--red-400-hsl);
+  --indicator-selected: var(--brand-500-hsl);
+  --indicator-connected: var(--green-230-hsl);
 }
 ```
 ---
