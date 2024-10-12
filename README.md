@@ -10,7 +10,7 @@
 2. Go to the "Vencord" category and select the "Themes" tab.
 3. In the input field under "THEMES" paste the following URL.
 ```
-https://discord-extensions.github.io/modern-indicators/src/source.css
+https://idntknwlouis.github.io/modern-indicators/src/source.css
 ```
 
 ### ![stylus](https://discord-extensions.github.io/assets/icons/stylus.png) **Stylus**
