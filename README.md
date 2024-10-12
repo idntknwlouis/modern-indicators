@@ -2,8 +2,8 @@
 - [Direct Install](https://youtu.be/dQw4w9WgXcQ)
 
 ### ![betterdiscord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
-- [Direct Download](https://github.com/discord-extensions/modern-indicators/releases/latest/download/modern-indicators.theme.css)
-- [Compiled Source](https://discord-extensions.github.io/modern-indicators/src/source.css)
+- [Direct Download](https://github.com/idntknwlouis/modern-indicators/releases/download/update/modern-indicators.theme.css)
+- [Compiled Source](https://idntknwlouis.github.io/modern-indicators/src/source.css)
 
 ### ![vencord](https://discord-extensions.github.io/assets/icons/vencord.gif) **[Vencord](https://github.com/Vendicated/Vencord)**
 1. Go to user settings (CTRL + ,)
@@ -19,7 +19,7 @@ https://discord-extensions.github.io/modern-indicators/src/source.css
 1. Install the browser extensions for your respective browser.
     - [Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
     - [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
-2. Once installed, open [this link](https://github.com/discord-extensions/modern-indicators/raw/main/clients/modern-indicators.user.css) in a new browser tab. This opens the page where you will install this userstyle.
+2. Once installed, open [this link](https://github.com/idntknwlouis/modern-indicators/blob/main/clients/modern-indicators.user.css) in a new browser tab. This opens the page where you will install this userstyle.
 3. Press the `Install Style` button.
 ---
 ### Customization
