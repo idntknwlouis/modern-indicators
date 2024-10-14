@@ -6,6 +6,10 @@
 - [Compiled Source](https://idntknwlouis.github.io/modern-indicators/src/source.css)
 
 ### ![vencord](https://discord-extensions.github.io/assets/icons/vencord.gif) **[Vencord](https://github.com/Vendicated/Vencord)**
+- [Direct Download](https://github.com/idntknwlouis/modern-indicators/releases/download/update/modern-indicators.theme.css)
+
+    **Or**
+
 1. Go to user settings (CTRL + ,)
 2. Go to the "Vencord" category and select the "Themes" tab.
 3. In the input field under "THEMES" paste the following URL.
@@ -25,6 +29,7 @@ https://idntknwlouis.github.io/modern-indicators/src/source.css
 ### Customization
 You can add the variables below into your Quick CSS and modify the basic colors. Please use HSL values.
 ```css
+/* Modern Indicators CSS Config */
 :root {
   /* Important Channel */
   --indicator-border-size: 2px;
