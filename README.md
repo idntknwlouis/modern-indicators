@@ -64,5 +64,5 @@ This theme is licensed under the MIT license. Please refer to the [LICENSE](./LI
 Everyone who has contributed can be found on the [CREDITS.md](./CREDITS.md) file. A personal thank you to everyone who has helped!
 
 ## I have no server yet (as of Nov.27, 2024). so you can just report an issue here for now.
-~~### Support Server
+~~Support Server
 If you are having any issues with the theme, feel free to join the [support server]('I have no server yet. so you can just report an issue here for now'), or make an issue on this repository.~~
