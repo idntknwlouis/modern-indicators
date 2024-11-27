@@ -61,7 +61,7 @@ You can add the variables below into your Quick CSS and modify the basic colors.
 This theme is licensed under the MIT license. Please refer to the [LICENSE](./LICENSE) file for more details regarding rights and limitations.
 
 ### Credits
-Everyone who has contributed can be found on the [CREDITS.md](./CREDITS.md) file. A personal thank you to everyone who has helped!
+Everyone who has contributed can be found on the [CREDITS.md](./CREDITS.md) file.
 
 ## I have no server yet (as of Nov.27, 2024). so you can just report an issue here for now.
 ~~Support Server
