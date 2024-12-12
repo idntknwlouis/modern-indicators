@@ -13,8 +13,12 @@
 1. Go to user settings (CTRL + ,)
 2. Go to the "Vencord" category and select the "Themes" tab.
 3. In the input field under "THEMES" paste the following URL.
-```
+```css
 https://idntknwlouis.github.io/modern-indicators/modern-indicators.css
+```
+or
+```css
+@import url("https://raw.githubusercontent.com/idntknwlouis/modern-indicators/refs/heads/main/src/source.css");
 ```
 
 ### ![stylus](https://discord-extensions.github.io/assets/icons/stylus.png) **Stylus**
