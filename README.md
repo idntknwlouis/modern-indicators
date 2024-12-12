@@ -16,7 +16,7 @@
 ```css
 https://idntknwlouis.github.io/modern-indicators/modern-indicators.css
 ```
-or
+or QuickCSS
 ```css
 @import url("https://raw.githubusercontent.com/idntknwlouis/modern-indicators/refs/heads/main/src/source.css");
 ```
